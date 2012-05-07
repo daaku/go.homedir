@@ -1,3 +1,4 @@
+// Package homedir finds the user's home directory.
 package homedir
 
 import (
